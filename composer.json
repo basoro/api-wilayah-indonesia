@@ -1,17 +1,17 @@
 {
-    "name": "emsifa/api-wilayah",
+    "name": "basoro/api-wilayah",
     "description": "Public API Wilayah Indonesia",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "Muhammad Syifa",
-            "email": "emsifa@gmail.com"
+            "name": "BAsoro",
+            "email": "dentix.id@gmail.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Emsifa\\ApiWilayah\\": "src/"
+            "Basoro\\ApiWilayah\\": "src/"
         }
     },
     "require": {}
